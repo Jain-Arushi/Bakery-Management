@@ -3,12 +3,12 @@ This is a simple bakery management system that allows administrators to manage t
 <br>Features
 <br>
 <br>Admin Login
-<br>Add new item to the menu
-<br>Delete item from the menu
-<br>Change item price
-<br>View menu
+<br>- Add new item to the menu
+<br>- Delete item from the menu
+<br>- Change item price
+<br>- View menu
 <br>Customer
-<br>Billing
-<br>Provide customer name and phone number
+<br>- Billing
+<br>- Provide customer name and phone number
 <br>Exit
-<br>Exit the program
+<br>- Exit the program
